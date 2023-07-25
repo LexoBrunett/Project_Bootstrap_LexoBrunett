@@ -7,10 +7,18 @@ svg{
 	margin-right: 5px;
 }
 
+.navbar-brand svg{
+	fill: black;
+}
+
 .nav-item .btn svg{
-	
+	fill: white;
 }
 
 .brandcolor{
 	color: black;
+}
+
+.nav svg{
+	margin-left: 10px;
 }
