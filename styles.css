@@ -22,3 +22,10 @@ svg{
 .nav svg{
 	margin-left: 10px;
 }
+
+.switch {
+	text-align: center;
+	display: block;
+	padding: 20px;
+}
+
